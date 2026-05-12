@@ -79,9 +79,6 @@ I use this space to collect projects, notes, notebooks, and experiments that hel
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GostiKitty&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff8fab&text_color=5b4b8a&bg_color=fff7fb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GostiKitty&layout=compact&langs_count=8&hide_border=true&title_color=ff69b4&text_color=5b4b8a&bg_color=fff7fb" />
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=GostiKitty&hide_border=true&background=fff7fb&ring=ff69b4&fire=ff8fab&currStreakLabel=ff69b4&sideLabels=5b4b8a&currStreakNum=5b4b8a&sideNums=5b4b8a&dates=9b72aa" />
